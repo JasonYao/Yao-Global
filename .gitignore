@@ -55,3 +55,6 @@ docs/_build/
 
 # PyBuilder
 target/
+
+# Secret setting ignores
+YaoGlobal/settings_secret.py
